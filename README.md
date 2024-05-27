@@ -4,7 +4,7 @@ This is a simple and stylish "Coming Soon" or "Parking" page built using React. 
 
 ## Demo
 
-![Coming Soon Page Screenshot](screenshot.png)
+![Coming Soon Page Screenshot](image.png)
 
 ## Features
 
