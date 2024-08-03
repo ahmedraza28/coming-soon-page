@@ -9,7 +9,7 @@ function App() {
         Your browser does not support HTML5 video.
       </video>
       <header className="App-header">
-        <h1>UNI Tech Agency</h1>
+        <h1>Nixor Tech Solutions</h1>
         <p>Launching Soon</p>
       </header>
     </div>
